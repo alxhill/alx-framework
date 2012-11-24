@@ -1,6 +1,6 @@
 # ALX-FRAMEWORK
 
-Welcome to the one and only alx-framework. Currently this is a very basic work in progress - there is a LOT that needs doing. But it does work!
+Welcome the alx-framework. Currently this is a very basic work in progress - there is a LOT that needs doing. But it works!
 
 ## Features
 * URL routing - /controller/method/optional/arguments
